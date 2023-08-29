@@ -1,5 +1,5 @@
 # ChatCPU
-<div align=center><img src="ChatCPU.png]"></div>
+<div align=center><img src="[ChatCPU.png]"></div>
 
 This project is an upgrade based on the accumulated experience of "CyberRio". We systematically reviewed the deficiencies and highlights of the first competition and officially announced the launch of ChatCPU.
 
