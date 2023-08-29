@@ -1,5 +1,6 @@
 # ChatCPU
-![image](ChatCPU.png)
+<div align=center><img src="ChatCPU.png]"></div>
+
 This project is an upgrade based on the accumulated experience of "CyberRio". We systematically reviewed the deficiencies and highlights of the first competition and officially announced the launch of ChatCPU.
 
 ChatCPU comes from the original CyberRio team, and members aim to use LLM to accelerate processor design. The team members are all teachers and students of Tsinghua University.
