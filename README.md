@@ -74,7 +74,6 @@ Generating files like pipeline.v proved unexpectedly challenging. The pipeline m
 In summary, GPT-4's understanding of hardware language remains substantially incomplete, including comprehension of the language itself and concepts such as handshaking and parallel processing. We suspect this might be a deficiency in GPT-4's training process. Nevertheless, for issues related to information deficiency, alternative approaches such as Langchain can be employed as a potential solution.
 # Caravel User Project
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Contributor
 Xinze Wang, Guohua Yin, Yifei Zhu
 # Director
