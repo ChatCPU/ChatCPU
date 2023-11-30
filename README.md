@@ -78,12 +78,14 @@ In summary, GPT-4's understanding of hardware language remains substantially inc
 If you find our work useful to you, please feel free to cite it.
 ChatCPU: An Agile CPU Design & Verification Platform with LLM. Xinze Wang, Guohua Yin and Xi Wang, https://github.com/ChatCPU/ChatCPU
 
+```bibtex
  @INPROCEEDINGS{9256623,
   author={Xinze Wang, Guohua Yin and Xi Wang},
   booktitle={https://github.com/ChatCPU/ChatCPU}, 
   title={ChatCPU: An Agile CPU Design & Verification Platform with LLM}, 
   year={2023}
   }
+```
 
 # Contributor
 ChatCPU team
