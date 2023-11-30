@@ -74,5 +74,18 @@ Generating files like pipeline.v proved unexpectedly challenging. The pipeline m
 
 In summary, GPT-4's understanding of hardware language remains substantially incomplete, including comprehension of the language itself and concepts such as handshaking and parallel processing. We suspect this might be a deficiency in GPT-4's training process. Nevertheless, for issues related to information deficiency, alternative approaches such as Langchain can be employed as a potential solution.
 
+# Reference
+If you find our work useful to you, please feel free to cite it.
+ChatCPU: An Agile CPU Design & Verification Platform with LLM. Xinze Wang, Guohua Yin and Xi Wang, https://github.com/ChatCPU/ChatCPU
+
+ @INPROCEEDINGS{9256623,
+   author={Xinze Wang, Guohua Yin and Xi Wang},
+   booktitle={[Github](https://github.com/ChatCPU/ChatCPU)}, 
+   title={ChatCPU: An Agile CPU Design & Verification Platform with LLM}, 
+   year={2023},
+   volume={},
+   number={},
+   doi={}}
+
 # Contributor
-Xinze Wang, Guohua Yin
+ChatCPU team
